@@ -12,10 +12,10 @@ After doing this, design your website into the _site folder.
 
 ##The site folder will include :
 
-*index.html
-*article.html
-*error.html
-*_includes
-  *Exemples:
-    *footer.html
-    *header.html
+* index.html
+* article.html
+* error.html
+* _includes
+  * Exemples:
+    * footer.html
+    * header.html
