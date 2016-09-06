@@ -30,3 +30,7 @@ $table_post_date = "post_date";
 
 $table_post_id = "id";
 
+//function settings
+
+//how many article will be displayed
+$article_number = 5;
