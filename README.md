@@ -40,6 +40,6 @@ After doing this, design your website in the `_site` folder.
     └── ...
  ```
  
- ## License
+## License
  
  Blogy is open source and available under the [MIT license](https://opensource.org/licenses/MIT)
